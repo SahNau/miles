@@ -5,5 +5,4 @@ public class Main {
         int bonus = price / part * amount;
         System.out.println(bonus);
     }
-
 }
